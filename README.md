@@ -24,16 +24,11 @@ Please ensure that you have the necessary dependencies and technologies installe
 
 ## Setup and Installation
 
-1. Clone the repository:
+1. Clone the repository:```git clone https://github.com/your-username/full-stack-blog-website.git```
 
-   -```git clone https://github.com/your-username/full-stack-blog-website.git```
-
-2. Install the dependencies:
-   -```npm install```
+2. Install the dependencies:```npm install```
    
-3. Start the backend server:
-
-  -```npm start```
+3. Start the backend server:```npm start```
 
 4. Open the application:
    - Open your web browser and visit `http://localhost:3000` to access the blog website.
