@@ -15,10 +15,10 @@ The project is built using the following technologies:
 
 - Frontend:
   - HTML, CSS, JavaScript
-  - Frontend Framework (e.g., React, Angular, Vue.js) (optional)
+  - Frontend Framework : React
 - Backend:
-  - Server Framework (e.g., Node.js with Express, Django, Ruby on Rails)
-  - Database (e.g., MongoDB, MySQL, PostgreSQL)
+  - Server Framework : Node.js with Express
+  - Database : MongoDB
 
 Please ensure that you have the necessary dependencies and technologies installed before running the project.
 
